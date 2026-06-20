@@ -1,10 +1,16 @@
 # Claude Code project data — not part of the website
 .claude/
 
+# Agent / build artifacts — not part of the website
+.agents/
+skills-lock.json
+
+# Standalone reference build + internal review/notes — not published
+index-standalone.html
+_review_*.html
+DEPLOY-NOTES.md
+
 # OS / editor cruft
 .DS_Store
 Thumbs.db
 desktop.ini
-
-# Local preview / diagnostic scratch files
-_*
