@@ -1,0 +1,12 @@
+# Entwicklungs-/Agent-Artefakte — NICHT veröffentlichen
+.agents/
+skills-lock.json
+
+# Standalone-Referenzbuild — NICHT veröffentlichen (Dubletten-Inhalt, kaputte Navigation)
+index-standalone.html
+
+# Projektnotizen — NICHT veröffentlichen
+DEPLOY-NOTES.md
+
+# Temporäre Review-/Vorschau-Dateien — NICHT veröffentlichen
+_review_*.html

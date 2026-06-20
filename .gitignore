@@ -1,0 +1,10 @@
+# Claude Code project data — not part of the website
+.claude/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local preview / diagnostic scratch files
+_*
